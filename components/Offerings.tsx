@@ -26,7 +26,7 @@ const Offerings = () => {
         className="absolute right-20 top-[30rem] max-md:hidden"
       />
       <Image
-        src="/offeringFrame.png"
+        src="/OfferingFrame.png"
         alt="offerinf"
         height={1299}
         width={1699}
