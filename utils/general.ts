@@ -49,7 +49,7 @@ export const courses = [
     para: "Access lectures anywhere and anytime at your own pace.",
   },
   {
-    image: "/kindle.png",
+    image: "/Kindle.png",
     title: "Flash cards",
     para: "Make learning convenient and fun using flash cards.",
   },

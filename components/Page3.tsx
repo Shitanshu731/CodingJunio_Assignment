@@ -7,7 +7,7 @@ const Page3 = () => {
     <div className="pt-20 px-4 md:pl-10 relative items-center justify-center">
       <Image
         className="absolute left-1/2 transform -translate-x-1/2 -mt-16 md:-ml-[28rem] md:-mt-[3.4rem] z-10 w-20 h-20 md:w-[180px] md:h-[180px]"
-        src="/ornament 115.jpg"
+        src="/Ornament 115.jpg"
         alt="ornament"
         height={180}
         width={180}
@@ -26,14 +26,14 @@ const Page3 = () => {
       </h1>
 
       <Image
-        src="/ornament 86.jpg"
-        alt="ornament"
+        src="/Ornament 86.jpg"
+        alt="Ornament"
         height={170}
         width={155}
         className="absolute right-16 md:right-72 top-60 z-10 w-14 h-14 md:w-[155px] md:h-[170px]"
       />
       <Image
-        src="/ornament 87.jpg"
+        src="/Ornament 87.jpg"
         alt="ornament"
         height={170}
         width={155}

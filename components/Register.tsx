@@ -29,7 +29,7 @@ const Register = () => {
         <Image
           src="/Programmer.png"
           alt="Image"
-          height={648}
+          height={408}
           width={671}
           className="w-full  max-md:mx-auto z-50"
         />
