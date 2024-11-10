@@ -61,7 +61,7 @@ const Hero = () => {
           <div className="flex flex-col md:flex-row w-full md:w-[604px] gap-4 md:gap-5 mt-5">
             <div className="flex w-full md:w-[289px] h-auto md:h-[263px] rounded-[10px] border-2 shadow-lg shadow-gray-500/50 border-[#2B95ED] items-center justify-center flex-col p-4">
               <Image
-                src="/university (1).png"
+                src="/University (1).png"
                 alt="universityLogo"
                 height={55}
                 width={56}
@@ -87,7 +87,7 @@ const Hero = () => {
 
             <div className="flex w-full md:w-[289px] h-auto md:h-[263px] rounded-[10px] border-2 shadow-lg shadow-gray-500/50 border-[#2B95ED] items-center justify-center flex-col p-4">
               <Image
-                src="/office.png"
+                src="/Office.png"
                 alt="officeLogo"
                 height={55}
                 width={56}

@@ -11,12 +11,12 @@ export const Details = [
   },
 
   {
-    image: "/Graduation cap.png",
+    image: "/Graduation Cap.png",
     numbers: "10k+",
     types: "Students",
   },
   {
-    image: "/university.png",
+    image: "/University.png",
     numbers: "100+",
     types: "Institutes",
   },
